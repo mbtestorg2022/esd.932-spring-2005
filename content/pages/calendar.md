@@ -4,24 +4,342 @@ title: Calendar
 uid: c60800f2-5fd2-8f72-44d3-fb3f70767c72
 ---
 
-| Lec # | topics | key dates |
-| --- | --- | --- |
-| {{< td-colspan 4 >}} {{< br >}}{{< br >}} **A: Organizational Processes - An Introduction** {{< br >}}{{< br >}} {{< /td-colspan >}} ||||
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction and Course Overview {{< br >}}{{< br >}} 5 Lenses\* and 10 Sub-Systems\*\*: Industries Selected {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Industry/Organizational Policy Analysis Methods {{< br >}}{{< br >}} Case Study: "FAA/NASA Aviation and the Environment" {{< br >}}{{< br >}}  |  |
-| {{< td-colspan 4 >}} {{< br >}}{{< br >}} **B: Organizational Types** {{< br >}}{{< br >}} {{< /td-colspan >}} ||||
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Regulatory/Administrative Organizations and NGOs {{< br >}}{{< br >}} Guest Speaker {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Entrepreneurial Organizations {{< br >}}{{< br >}} Guest Speaker {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Multi-National Organizations {{< br >}}{{< br >}}  |  |
-| {{< td-colspan 4 >}} {{< br >}}{{< br >}} **C: Organizational Processes (By Level)** {{< br >}}{{< br >}} {{< /td-colspan >}} ||||
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Individual Motivation and Commitment {{< br >}}{{< br >}} Reward System Design Exercise {{< br >}}{{< br >}} Single Point Module: Coaching and Mentoring {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Industry policy paper 1 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Group Dynamics and Decision Making {{< br >}}{{< br >}} Guest Speaker {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Organizational Strategy, Structure and Process {{< br >}}{{< br >}} Protocols and Standards {{< br >}}{{< br >}} Guest Speaker {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Industry Alignment and Institutional Transformation {{< br >}}{{< br >}} Systems Change Debates {{< br >}}{{< br >}}  |  |
-| {{< td-colspan 4 >}} {{< br >}}{{< br >}} **D: Integration** {{< br >}}{{< br >}} {{< /td-colspan >}} ||||
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Industry Policy Project Presentations {{< br >}}{{< br >}} Student Team Presentations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Presentation slides due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Re-Engineering Technology Policy Organizations {{< br >}}{{< br >}} Guest Speaker {{< br >}}{{< br >}}  |  |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Alumni/ae Panel {{< br >}}{{< br >}} Open-Forum Panel Dialogue {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Industry policy paper 2 due {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+topics
+{{< thclose >}}
+{{< thopen >}}
+key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+
+
+**A: Organizational Processes - An Introduction**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction and Course Overview
+
+5 Lenses\* and 10 Sub-Systems\*\*: Industries Selected
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Industry/Organizational Policy Analysis Methods
+
+Case Study: "FAA/NASA Aviation and the Environment"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+
+
+**B: Organizational Types**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Regulatory/Administrative Organizations and NGOs
+
+Guest Speaker
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Entrepreneurial Organizations
+
+Guest Speaker
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Multi-National Organizations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+
+
+**C: Organizational Processes (By Level)**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Individual Motivation and Commitment
+
+Reward System Design Exercise
+
+Single Point Module: Coaching and Mentoring
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Industry policy paper 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Group Dynamics and Decision Making
+
+Guest Speaker
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Organizational Strategy, Structure and Process
+
+Protocols and Standards
+
+Guest Speaker
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Industry Alignment and Institutional Transformation
+
+Systems Change Debates
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+
+
+**D: Integration**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Industry Policy Project Presentations
+
+Student Team Presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentation slides due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Re-Engineering Technology Policy Organizations
+
+Guest Speaker
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Alumni/ae Panel
+
+Open-Forum Panel Dialogue
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Industry policy paper 2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
