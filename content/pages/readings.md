@@ -408,7 +408,7 @@ Open-Forum Panel Dialogue
 
 _Reading Distributed Separately_
 
-Kochan, Thomas, Wanda Orlikowski, and Joel Cutcher-Gershenfeld. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Beyond McGregor's Theory Y: Human Capital and Knowledge-Based Work in the 21st Century Organization."  
+Kochan, Thomas, Wanda Orlikowski, and Joel Cutcher-Gershenfeld. ["Beyond McGregor's Theory Y: Human Capital and Knowledge-Based Work in the 21st Century Organization."  
 ](https://www.researchgate.net/publication/237702104_Beyond_McGregor's_Theory_Y_Human_Capital_and_Knowledge-Based_Work_in_the_21st_Century_Organization)
 
 
