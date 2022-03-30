@@ -9,6 +9,7 @@ description: 'This file includes the following topics:
   and Japanese model of production system and "Humanware".'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-932-technology-policy-organizations-spring-2005/a6dd1491e1342e6922495f26dad34f27_ses5aautostudy1.pdf
 file_type: application/pdf
+parent_uid: e387a8f3-1654-bd7a-6676-665595729ce4
 resourcetype: Document
 title: ses5aautostudy1.pdf
 uid: a6dd1491-e134-2e69-2249-5f26dad34f27

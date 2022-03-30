@@ -7,6 +7,7 @@ description: 'This file includes the following topics:
   phase, and final meeting.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-932-technology-policy-organizations-spring-2005/fa1bd2433cfeb497e30c2e132cf14b62_ses8taskforces.pdf
 file_type: application/pdf
+parent_uid: e387a8f3-1654-bd7a-6676-665595729ce4
 resourcetype: Document
 title: ses8taskforces.pdf
 uid: fa1bd243-3cfe-b497-e30c-2e132cf14b62

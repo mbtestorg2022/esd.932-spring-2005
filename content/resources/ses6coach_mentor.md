@@ -7,6 +7,7 @@ description: 'This file includes the following topics:
   and facing down in the organization.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-932-technology-policy-organizations-spring-2005/792000c2e76a9ab0cfa5f770755d56e2_ses6coach_mentor.pdf
 file_type: application/pdf
+parent_uid: e387a8f3-1654-bd7a-6676-665595729ce4
 resourcetype: Document
 title: ses6coach_mentor.pdf
 uid: 792000c2-e76a-9ab0-cfa5-f770755d56e2
